@@ -21,5 +21,6 @@ De acuerdo a lo especificado, presenta tu proyecto frente al grupo. Recuerda que
 
 Parámetros: creatividad, conexión con prácticas análogas de improvisación, calidad de la representación, discurso artístico.
 
-Etapa 3. Responde 2 preguntas sobre tu proyecto
+### Etapa 3. 
+Responde 2 preguntas sobre tu proyecto
 2/10 puntos 
