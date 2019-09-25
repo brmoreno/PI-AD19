@@ -21,7 +21,7 @@ Identificar inputs: rangos naturales, canales, información
 Identificar output: ¿Qué proceso se controla? ¿Bajo que parámetros? ¿Cómo se transforma en la información necesaria?
 
 ## Software
-Flujo de datos
+Flujo de datos, técnicas.
 
 Identificar problemas y soluciones.
 
